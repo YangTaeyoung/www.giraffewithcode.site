@@ -2,6 +2,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/pycharm+all,django,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=pycharm+all,django,python
 
+### migrations ###
+**/migrations/*.*
+
 ### gunicorn ###
 gunicorn.conf.py
 
